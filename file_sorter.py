@@ -7,9 +7,9 @@ import sys
 
 
 
-# Get input directory from user
+# Get input directory from the user
 
-# Get input directory from user
+# Get output directory from the user
 
 
 # Apply pseudo code
